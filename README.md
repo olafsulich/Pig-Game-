@@ -13,7 +13,7 @@ This is my first javascript project. Pig-Game was created using Jonas Schmedtman
 * The player can choose to 'Hold', which means that his round score gets added to his global score. After that, it's the next player's turn.
 * The first player to reach 100 points on GLOBAL score wins the game.
 
-![Design](git/ss.png)
+![Design](https://ibb.co/TwfXwm6)
 
 
 
