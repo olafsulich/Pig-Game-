@@ -14,6 +14,6 @@ This is my first javascript project. Pig-Game was created using Jonas Schmedtman
 * The first player to reach 100 points on GLOBAL score wins the game.
 
 
-![Presentation](pulpit/ss.png)
+
 
 
