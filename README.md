@@ -1,6 +1,5 @@
 # Description 
-This is my first javascript project. Pig-Game was created using Jonas Schmedtmann course. 
-
+This is my first javascript project.
 ## Technologies
 * HTML5
 * CSS
